@@ -1,0 +1,20 @@
+#Inputs
+Net "B(0)" LOC = "G12";   #Button 0 
+Net "B(1)" LOC = "C11";   #Button 1
+Net "B(2)" LOC = "M4";    #Button 2
+Net "B(3)" LOC = "A7";    #Button 3
+
+#Outputs
+Net "S(0)" LOC = "L14";		#Decimal Display A
+Net "S(1)" LOC = "H12";		#Decimal Display B
+Net "S(2)" LOC = "N14";		#Decimal Display C
+Net "S(3)" LOC = "N11";		#Decimal Display D
+Net "S(4)" LOC = "P12";		#Decimal Display E
+Net "S(5)" LOC = "L13";		#Decimal Display F
+Net "S(6)" LOC = "M12";		#Decimal Display G
+Net "S(7)" LOC = "N13";		#Decimal Display DP
+
+Net "AX(3)" LOC = "F12";  #First Decimal Display
+Net "AX(2)" LOC = "J12";  #Second Decimal Display
+Net "AX(1)" LOC = "M13";  #Third Decimal Display
+Net "AX(0)" LOC = "K14";  #Fourth Decimal Display
