@@ -1,2 +1,2 @@
 # EEE333Lab3
-Lab 3 for class.
+All part one files are in the Part 1 folder under "src".
