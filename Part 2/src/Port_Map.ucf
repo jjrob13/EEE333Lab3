@@ -1,0 +1,24 @@
+#Inputs
+Net "S(0)" LOC = "P11";   #Switch 0 
+Net "S(1)" LOC = "L3";   #Switch 1
+Net "S(2)" LOC = "K3";    #Switch 2
+Net "S(3)" LOC = "B4";    #Switch 3
+NET "S(4)" LOC = "A7";		#Switch 4
+NET "SEL" LOC = "N3";
+
+#Outputs
+Net "D(0)" LOC = "L14";		#Decimal Display A
+Net "D(1)" LOC = "H12";		#Decimal Display B
+Net "D(2)" LOC = "N14";		#Decimal Display C
+Net "D(3)" LOC = "N11";		#Decimal Display D
+Net "D(4)" LOC = "P12";		#Decimal Display E
+Net "D(5)" LOC = "L13";		#Decimal Display F
+Net "D(6)" LOC = "M12";		#Decimal Display G
+Net "D(7)" LOC = "N13";		#Decimal Display DP
+
+Net "AX(3)" LOC = "F12";  #First Decimal Display
+Net "AX(2)" LOC = "J12";  #Second Decimal Display
+Net "AX(1)" LOC = "M13";  #Third Decimal Display
+Net "AX(0)" LOC = "K14";  #Fourth Decimal Display
+
+NET "SINGLE_LED" LOC = "M5"; #LED 0
